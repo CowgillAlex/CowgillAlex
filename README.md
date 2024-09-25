@@ -1,16 +1,15 @@
 ## Hi there 👋
-
-<!--
-**CowgillAlex/CowgillAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Alexander, but call me Alex :)
 
 - 🔭 I’m currently working on ...
+  A Level Computer Science
+  
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+  Java, C#, Javascript
+  
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Email me:
+  alexandercowgillyt@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Minecraft
