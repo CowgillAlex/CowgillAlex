@@ -5,7 +5,7 @@ I'm Alexander, but call me Alex :)
 
 - 🔭 I’m currently working on ...
   A Level Computer Science
-  (Studipedia)[https://www.studipedia.co.uk] - SvelteKit
+- [Studipedia](https://www.studipedia.co.uk) - SvelteKit
   
 - 🌱 I’m currently learning ...
   Java, Typescript, React, NextJS, and Svelte(kit)
