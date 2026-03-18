@@ -1,18 +1,22 @@
-## Hi there 👋
-I'm Alexander, but call me Alex :)
+I'm Alex, a Java and web developer. 
 
 
+## Current Projects
+- [Studipedia](https://www.studipedia.co.uk)
 
-- 🔭 I’m currently working on ...
-  A Level Computer Science
-- [Studipedia](https://www.studipedia.co.uk) - SvelteKit
+
+## My Current Stack
+SvelteKit, Clerk, Tailwind, Typescript and Postgres. 
+
   
-- 🌱 I’m currently learning ...
-  Java, Typescript, React, NextJS, and Svelte(kit)
-  
+## Stack
+**Languages**: Java, TypeScript, JavaScript  
+**Frontend**: Svelte/SvelteKit, React, Next.js  
+**Auth**: Clerk, Better Auth  
+**Other**: Tailwind, Postgres, Firebase  
 
-- 📫 How to reach me: ...
-  Email me:
-  alexandercowgillyt@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Minecraft
+
+
+## Contact
+[alex@alexco.dev](mailto:alex@alexco.dev)
+
