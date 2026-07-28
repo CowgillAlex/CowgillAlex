@@ -2,6 +2,7 @@ I'm Alex, a Java and web developer.
 
 
 ## Current Projects
+- [Kryptonote](https://www.kryptonote.com)
 - [Studipedia](https://www.studipedia.co.uk)
 
 
